@@ -11,10 +11,10 @@
     <!-- CSS -->
     <link rel="stylesheet" href="./css/style.css">
 
-    <title>Tabela de Nomenclaturas</title>
+    <title>Tabela de Equipamentos</title>
 </head>
 <body>
-    <h1>Tabela de Nomenclaturas</h1>
+    <h1>Tabela de Equipamentos</h1>
 
     <form action="<?=$_SERVER['PHP_SELF']?>" method="GET">
         <div class="input-group mb-3">
